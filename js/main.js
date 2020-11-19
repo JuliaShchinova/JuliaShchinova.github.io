@@ -54,7 +54,6 @@
         }
       });
 
-
       if (event.type === 'blur') {
         if (input.value.length === 2) {
           input.value = '';
